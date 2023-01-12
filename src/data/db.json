@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "React",
+      "author": "ABC"
+    },
+    {
+      "id": 2,
+      "title": "Express server",
+      "author": "XYZ"
+    },
+    {
+      "id": 3,
+      "title": "Java server",
+      "author": "test"
+    }
+  ]
+}
